@@ -2,7 +2,7 @@
 
 ## Hi there :)
 
-###Introduction
+### Introduction
 
 The project built using a monolithic architecture (https://lucid-architecture.gitbook.io/docs/) with different services:
 - Client (for the not auth user)
@@ -15,8 +15,8 @@ The project built using a monolithic architecture (https://lucid-architecture.gi
 ```
 Designed for easy growth with the `Adding New Services`/`Removing Existing Services`
 
-###Installation 
-####(Docker)
+### Installation 
+#### (Docker)
 
 Package https://laravel.com/docs/8.x/sail was provided in the project architecture to provide unified configurations
 for different virtual machines. 
@@ -42,7 +42,7 @@ docker-compose up
 ```
 3.2. - Choose PHP container.
 
-####(Laravel)
+#### (Laravel)
 
 4. - Install Composer packages:
 ```shell
@@ -69,4 +69,4 @@ npm i
 npm run prod
 ```
 
-###See you soon!
+### See you soon!
